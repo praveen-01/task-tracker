@@ -6,7 +6,7 @@ A CLI Tool for efficiently managing day-to-day tasks. This tool allows users to 
 
 Install through pip
 ```
-pip install https://github.com/praveen-01/task-tracker-cli.git
+pip install git+https://github.com/praveen-01/task-tracker-cli.git
 ```
 
 ## Usage
