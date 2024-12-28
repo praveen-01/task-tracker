@@ -79,7 +79,6 @@ class Processor():
             print("Invalid id.Please select a valid task Id from the below tasks....")
             self.list()
         else:
-            print(idx)
             del self.file_data[idx]
             self.update_storage()
 
